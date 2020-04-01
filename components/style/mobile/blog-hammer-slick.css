@@ -13,7 +13,6 @@
     .blog-hammer .flex-hammer-item{
         width: 100%;
         margin-bottom: 40px;
-        height: unset;
     }
     .blog-hammer{
         -ms-flex-wrap: wrap;
