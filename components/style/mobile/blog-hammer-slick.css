@@ -4,6 +4,11 @@
         left: 0 !important;
         margin-left: 0 !important;
         height: 100% !important;
+        background-color: red;
+        
+    }
+    .flex-hammer-item{
+        background-color: blue;
     }
 }
 @media screen and (max-width: 1199px){
