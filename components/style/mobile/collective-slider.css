@@ -13,8 +13,14 @@
         margin-left: 0;
     }
     .slider-box-collective{
-        max-height: 285px;
+        height: auto;
         align-items: flex-start;
+    }
+    .item-collective{
+        display: block;
+        flex-wrap: initial;
+        align-items: inherit;
+        height: auto;
     }
     .control-collective{
         height: auto;
