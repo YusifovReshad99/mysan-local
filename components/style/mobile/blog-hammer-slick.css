@@ -3,13 +3,8 @@
     .blog-hammer{
         left: 0 !important;
         margin-left: 0 !important;
-        height: 100% !important;
-        background-color: red;
-        
     }
-    .flex-hammer-item{
-        background-color: blue;
-    }
+    
 }
 @media screen and (max-width: 1199px){
     .blog-cirlce{
@@ -24,8 +19,12 @@
             flex-wrap: wrap;
         display: block;
         margin-bottom: 4px;
+        background-color: red;
+        height: 100% !important;
     }
-   
+    .flex-hammer-item{
+        background-color: blue;
+    }
 }
 
 @media screen and (max-width: 767px){
