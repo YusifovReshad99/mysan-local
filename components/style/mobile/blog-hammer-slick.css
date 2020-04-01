@@ -13,18 +13,16 @@
     .blog-hammer .flex-hammer-item{
         width: 100%;
         margin-bottom: 40px;
+        height: unset;
     }
     .blog-hammer{
         -ms-flex-wrap: wrap;
             flex-wrap: wrap;
         display: block;
         margin-bottom: 4px;
-        background-color: red;
-        height: 100% !important;
+        height: auto;
     }
-    .flex-hammer-item{
-        background-color: blue;
-    }
+    
 }
 
 @media screen and (max-width: 767px){
