@@ -42,6 +42,9 @@
         width: 282px;
         height: auto;
     }
+    .flex-blog{
+        height: auto;
+    }
     .blog-hammer{
         -ms-flex-wrap: nowrap;
             flex-wrap: nowrap;
@@ -49,7 +52,6 @@
         display: -ms-flexbox;
         display: flex;
         align-items: flex-start;
-        max-height: 400px;
         height: auto;
     }
     .flex-blog{
