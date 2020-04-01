@@ -30,6 +30,9 @@
     .one-line-footer-head{
         margin-bottom: 50px;
     }
+    .bmf-input{
+        min-width: 370px;
+    }
 }
 
 @media screen and (max-width: 767px){
@@ -78,6 +81,7 @@
     }
     .bmf-input{
         margin-bottom: 20px;
+        min-width: auto;
     }
     .ifb li{
         margin-bottom: 20px;
