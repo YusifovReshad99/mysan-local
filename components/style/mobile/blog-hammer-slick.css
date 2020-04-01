@@ -53,7 +53,7 @@
         display: block;
     }
     .blog-hammer .flex-hammer-item{
-        height: inherit;
+        height: 100%;
     }
     .img-blog{
         margin-bottom: 20px;
