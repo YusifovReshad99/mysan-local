@@ -35,11 +35,12 @@
     margin: 0;
     background-color: #DCDFE6;
 }
-.blog-hammer .flex-hammer-item{
-    width: 50%;
-    height: 170px;
+@media screen and (min-width: 767px){
+    .blog-hammer .flex-hammer-item{
+        width: 50%;
+        height: 170px;
+    }
 }
-
 .flex-blog{
     width: 100%;
     height: 100%;
