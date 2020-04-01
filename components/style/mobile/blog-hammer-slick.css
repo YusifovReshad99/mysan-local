@@ -3,6 +3,7 @@
     .blog-hammer{
         left: 0 !important;
         margin-left: 0 !important;
+        height: 100% !important;
     }
 }
 @media screen and (max-width: 1199px){
@@ -12,7 +13,6 @@
     .blog-hammer .flex-hammer-item{
         width: 100%;
         margin-bottom: 40px;
-        height: inherit;
     }
     .blog-hammer{
         -ms-flex-wrap: wrap;
