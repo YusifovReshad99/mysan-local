@@ -49,6 +49,7 @@
         display: -ms-flexbox;
         display: flex;
         align-items: flex-start;
+        max-height: 400px;
     }
     .flex-blog{
         display: block;
