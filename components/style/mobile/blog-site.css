@@ -3,6 +3,9 @@
     .hammer-site .flex-hammer-item{
         min-width: 370px;
     }
+    .blog-site{
+        margin-bottom: 0;
+    }
 }
 
 @media screen and (max-width: 767px){
